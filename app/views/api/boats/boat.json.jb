@@ -1,0 +1,7 @@
+{
+  name: @boat.name,
+  color: @boat.color,
+  style: @boat.style,
+  price: "$#{@boat.price}",
+  capacity: @boat.capacity.to_s
+}
